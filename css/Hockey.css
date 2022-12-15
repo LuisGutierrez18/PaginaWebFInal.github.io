@@ -1,0 +1,22 @@
+h1{
+    background-color: #00A8DB;
+    border-radius: 10px;
+    text-align: center;
+    clear: both;
+}
+h2{
+    background-color: #80DBF5;
+    border-radius: 10px;
+    clear: both;
+}
+#arg{
+    font-weight: bold;
+}
+#las{
+    float: left;
+    padding: 10px;
+}
+#tt{
+    clear: both;
+    text-align: center;
+}
